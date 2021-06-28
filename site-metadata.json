@@ -14,7 +14,7 @@
         {
             "title": "Occasions",
             "url": "#",
-            "style": "primary",
+            "style": "secondary",
             "arrow": true,
             "type": "action"
         },
