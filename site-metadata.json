@@ -12,16 +12,16 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Store",
-            "url": "/store",
-            "style": "link"
-        },
-        {
             "title": "Occasions",
             "url": "#",
             "style": "primary",
             "arrow": false,
             "type": "action"
+        },
+        {
+            "title": "Store",
+            "url": "/store",
+            "style": "link"
         },
         {
             "title": "About",
